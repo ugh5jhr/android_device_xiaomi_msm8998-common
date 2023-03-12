@@ -424,10 +424,7 @@ vendor/lib/libvpplibrary.so
 vendor/lib/libvqzip.so
 vendor/lib64/libgpustats.so
 
-# Mlipay
-vendor/bin/mlipayd@1.1
-vendor/etc/init/vendor.xiaomi.hardware.mlipay@1.1-service.rc
-vendor/lib64/libmlipay@1.1.so
+
 
 # NFC firmware
 vendor/lib/libpn553_fw.so
